@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(122, 81, 81);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 7rem;
+    text-align: center;
+    margin-top: 5rem;
+}
+div {
+    margin: auto;
+    margin-top: 0.7rem;
+}
+
+/**Hamburger Section**/
+.bread-top {
+    border: rgb(202, 147, 75) solid 3rem;
+    width: 20%;
+    border-top-left-radius: 5rem;
+    border-top-right-radius: 5rem ;
+}
+
+.tomato {
+    border: rgba(163, 47, 1, 0.726) solid 1rem;
+    width: 23.2%;
+}
+
+.salat {
+    border: rgba(54, 136, 54, 0.835) solid 1rem;
+    width: 23.2%;
+}
+
+.cheese {
+    border: rgb(219, 176, 32) solid 0.5rem;
+    width: 24.1%;
+}
+
+.meat {
+    border: rgba(85, 57, 34, 0.918) solid 2rem;;
+    width: 21.5%;
+    border-radius: 1rem;
+}
+
+.bread-bottom {
+    border: rgb(202, 147, 75) solid 2rem;
+    width: 21.3%;
+    border-bottom-left-radius: 5rem;
+    border-bottom-right-radius: 5rem ;
+}
+
+input:hover {
+    color: rgb(202, 147, 75);
+    background-color: rgb(85, 57, 34, 0.918);
+}
