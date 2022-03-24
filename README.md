@@ -47,9 +47,9 @@ The project page is designed in mobile first for best UX
 - [x] _jason_
 ---
 ### Contact
-Mail: <holgeraliusklose@gmail.com><br>
-GitHub: [Holledrums](https://github.com/)<br>
-LinkedIn: [linkedIn](https://www.linkedin.com/in/holger-klose-240831147/)
+Mail: <br>
+GitHub: (https://github.com/)<br>
+LinkedIn: [linkedIn]
 ---
 ### Used Tools
 - [icons](https://)
